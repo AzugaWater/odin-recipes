@@ -19,3 +19,31 @@
 .button3{
     color: rgb(15, 230, 233); 
 }
+
+.crossbuns,
+.steps{
+    text alignment::center;
+    font-family:"Times New Roman", "Helvetica Neue", Helvetica, Arial;
+
+}
+.crossbuns{
+ 
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(51, 142, 39) !important
+
+}
+.steps{
+    
+    font size: 12px;
+    font-weight: normal;
+    color: red;
+
+}
+
+.rise{
+    color:rgb(237, 12, 189);
+    text-align: justify;
+    font-size: 16px;
+    font-weight: ;
+}
