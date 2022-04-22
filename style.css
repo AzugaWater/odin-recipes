@@ -11,5 +11,11 @@
 }
 
 .button1{
-    
+    color: navy;    
+}
+.button2{
+    color: rgb(225, 237, 129); 
+}
+.button3{
+    color: rgb(15, 230, 233); 
 }
